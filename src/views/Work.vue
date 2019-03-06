@@ -1,8 +1,8 @@
 <template>
-  <div class="about">
+  <div class="work">
     <div id="nav">
       <router-link to="/">Home</router-link>
     </div>
-    <h1>This is an about page</h1>
+    <h1>This is an work page</h1>
   </div>
 </template>

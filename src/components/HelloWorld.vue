@@ -5,7 +5,9 @@
         <h2 class="landing" contenteditable data-heading="윤수정">윤수정</h2>
       </div>
       <div class="wrapper">
-        <h2 class="landing" contenteditable data-heading="Alison Yoon">Alison Yoon</h2>
+        <h2 class="landing" contenteditable data-heading="Alison Yoon">
+          Alison Yoon
+        </h2>
       </div>
     </div>
 
@@ -30,16 +32,17 @@
           Here, she designs cloud based web application. It’s a dashboard that
           deals with large, complex data that provides filtering, data modeling.
         </p>
-        <p>You can see the challenges and process of her work
-          <router-link to="/about">here.</router-link>
+        <p>
+          You can see the challenges and process of her work
+          <router-link to="/work">here.</router-link>
         </p>
         <p>
           Her previous work was at
-          <a href="https://roundee.io" target="_blank">roundee.io</a> where she worked as UI/UX
-          designer. She created design system for the brand, redesigned the
-          website, carried market research, user interviews, UX workshops with
-          internal team, delivered production level prototype with UI
-          development.
+          <a href="https://roundee.io" target="_blank">roundee.io</a> where she
+          worked as UI/UX designer. She created design system for the brand,
+          redesigned the website, carried market research, user interviews, UX
+          workshops with internal team, delivered production level prototype
+          with UI development.
         </p>
         <p>
           She worked as a freelance web designer working with clients. She
@@ -72,16 +75,33 @@
     <h3>Essential Links</h3>
     <ul>
       <li>
-        <a href="https://www.linkedin.com/in/alison-yoon/" target="_blank" rel="noopener">LinkedIn</a>
+        <a
+          href="https://www.linkedin.com/in/alison-yoon/"
+          target="_blank"
+          rel="noopener"
+          >LinkedIn</a
+        >
       </li>
       <li>
-        <a href="https://github.com/AlisonYoon" target="_blank" rel="noopener">Github</a>
+        <a href="https://github.com/AlisonYoon" target="_blank" rel="noopener"
+          >Github</a
+        >
       </li>
       <li>
-        <a href="https://twitter.com/aliyooncreative" target="_blank" rel="noopener">Twitter</a>
+        <a
+          href="https://twitter.com/aliyooncreative"
+          target="_blank"
+          rel="noopener"
+          >Twitter</a
+        >
       </li>
       <li>
-        <a href="https://dribbble.com/aliyooncreative" target="_blank" rel="noopener">Dribbble</a>
+        <a
+          href="https://dribbble.com/aliyooncreative"
+          target="_blank"
+          rel="noopener"
+          >Dribbble</a
+        >
       </li>
       <li>
         <a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a>
