@@ -184,6 +184,15 @@ a {
   display: grid;
   grid-template-columns: 0.5fr 75vw 2fr;
   text-align: left;
+  .grid-item {
+    h1 {
+      margin: 1.5em 0;
+    }
+    p {
+      font-size: 18px;
+      margin: 3em 0;
+    }
+  }
 }
 
 $bg: #e6e2df;
